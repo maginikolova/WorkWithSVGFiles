@@ -1,11 +1,12 @@
-/*
-C++ Working with SVG files project
-
-Sofia University, Faculty of Mathematics and Informatics
-Object Oriented Programming course
-summer semester 2015/2016
-
-author: Magdalena Nikolova
+/**
+* Working with SVG files - C++ project
+*
+* Sofia University, Faculty of Mathematics and Informatics
+* Object Oriented Programming course
+* Summer semester 2015/2016
+*
+* @author Magdalena Nikolova
+* @created 2016-08-20
 */
 
 #include <iostream>
